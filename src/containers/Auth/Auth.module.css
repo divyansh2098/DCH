@@ -1,0 +1,38 @@
+.Form{
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    flex: 1;
+    border-left: 2px solid red;
+    border-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(53, 14, 160) 48%, rgba(255, 255, 255, 0) 100%);
+    border-image-slice: 1;
+}
+.Form label{
+    font-size: 1.5em;
+}
+.Container{
+    box-sizing: border-box;
+    border: 1px solid #bbb;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    position: relative;
+    top: 150px;
+    left: 25%;
+    height: 50%;
+    background-color: lightblue;
+    box-shadow: 4px 2px 4px 2px #dde;
+}
+.Selectors{
+    display: flex;
+    box-sizing: border-box;
+    flex: 1;
+    flex-flow: column;
+    align-items: center;
+}

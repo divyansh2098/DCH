@@ -1,0 +1,15 @@
+.Input{
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 2rem;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    outline: none;
+}
+.invalid{
+    border-color: red;
+}
+.valid{
+    border-color: green
+}
