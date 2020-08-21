@@ -112,15 +112,15 @@ class SignupForm extends Component{
         return(
             <div className={classes.Container}>
                 <div className={classes.Selectors}>
-                    <Button valid={validity}>Coach</Button>
-                    <Button valid={validity}>Player</Button>
+                    <Button valid>Coach</Button>
+                    <Button valid>Player</Button>
                 </div>
                 <div className={classes.Form}>
                     <label>{this.state.isSignup ? "Signup" : "Login"}</label>
                     {form}
                     <Button valid={validity}>{this.state.isSignup ? "Signup" : "Login"}</Button>                    
                     <p>{this.state.isSignup ? "Already Registered?" : "New User?"}</p>
-                    <Button valid={validity} click={this.changeAuthmethodHandler}>{this.state.isSignup ? "Login" : "Signup"}</Button>
+                    <Button valid click={this.changeAuthmethodHandler}>{this.state.isSignup ? "Login" : "Signup"}</Button>
                 </div>
             </div>
         )       
