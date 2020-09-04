@@ -1,0 +1,20 @@
+.Matches{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    width: 80%;
+}
+.Card{
+    display: flex;
+    width: 80%;
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+@media (min-width:700px){
+    .Card {
+        width:30%
+    }
+}

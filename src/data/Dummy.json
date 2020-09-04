@@ -1,0 +1,95 @@
+{
+    "battingTeam": [
+        {
+            "name": "Divyansh Singh",
+            "id" : 0,
+            "profileLink": "/DivyanshSingh"
+        },
+        {
+            "name": "Sachin Pant",
+            "id" : 1,
+            "profileLink": "/SachinPant"
+        },
+        {
+            "name": "Divyansh Singh",
+            "id" : 2,
+            "profileLink": "/DivyanshSingh"
+        },
+        {
+            "name": "Divyansh Singh",
+            "id" : 3,
+            "profileLink": "/DivyanshSingh"
+        },
+        {
+            "name": "Divyansh Singh",
+            "id" : 4,
+            "profileLink": "/DivyanshSingh"
+        },
+        {
+            "name": "Divyansh Singh",
+            "id" : 5,
+            "profileLink": "/DivyanshSingh"
+        },{
+            "name": "Divyansh Singh",
+            "id" : 6,
+            "profileLink": "/DivyanshSingh"
+        },{
+            "name": "Divyansh Singh",
+            "id" : 7,
+            "profileLink": "/DivyanshSingh"
+        },{
+            "name": "Divyansh Singh",
+            "id" : 8,
+            "profileLink": "/DivyanshSingh"
+        },{
+            "name": "Divyansh Singh",
+            "id" : 9,
+            "profileLink": "/DivyanshSingh"
+        },{
+            "name": "Divyansh Singh",
+            "id" : 10,
+            "profileLink": "/DivyanshSingh"
+        }
+    ],
+    "bowlingTeam": [
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },
+        {
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },{
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },{
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },{
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },{
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        },{
+            "name": "Dale Steyn",
+            "profileLink": "/DaleSteyn"
+        }
+    ] 
+}

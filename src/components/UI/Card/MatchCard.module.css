@@ -1,0 +1,10 @@
+.root{
+    width: 80%;
+    margin: 20px
+}
+@media(min-width: 700px)
+{
+    .root{
+        width: 30%
+    }
+}
